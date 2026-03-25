@@ -7,3 +7,4 @@ pypdf
 python-docx
 docx2txt
 sentence-transformers
+python-dotenv
