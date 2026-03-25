@@ -2,9 +2,11 @@ streamlit
 langchain
 langchain-openai
 langchain-community
+langchain-core
 chromadb
 pypdf
 python-docx
 docx2txt
 sentence-transformers
 python-dotenv
+huggingface-hub
